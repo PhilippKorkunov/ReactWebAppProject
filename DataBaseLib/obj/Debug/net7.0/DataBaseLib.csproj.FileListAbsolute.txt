@@ -1,0 +1,14 @@
+D:\Project\DataBaseLib\bin\Debug\net7.0\DataBaseLib.deps.json
+D:\Project\DataBaseLib\bin\Debug\net7.0\DataBaseLib.runtimeconfig.json
+D:\Project\DataBaseLib\bin\Debug\net7.0\DataBaseLib.dll
+D:\Project\DataBaseLib\bin\Debug\net7.0\DataBaseLib.pdb
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.csproj.AssemblyReference.cache
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.AssemblyInfoInputs.cache
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.AssemblyInfo.cs
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.csproj.CoreCompileInputs.cache
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.dll
+D:\Project\DataBaseLib\obj\Debug\net7.0\refint\DataBaseLib.dll
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.pdb
+D:\Project\DataBaseLib\obj\Debug\net7.0\DataBaseLib.genruntimeconfig.cache
+D:\Project\DataBaseLib\obj\Debug\net7.0\ref\DataBaseLib.dll
